@@ -64,6 +64,10 @@ I would talk about my experience on tumblr... but right now I don't really have 
 
     I mean, making your feed an echo-chamber is by design, it makes you interact more, its just that more recently the general platform has been pushing towards echoing a certain set of voices, mostly of far right opinion. Twitter is an echo-chamber, it's probably how you heard about these platforms being echo-chambers, because since you still use Twitter, it's probably what you want to hear, and the chamber provides you a reason. The only way to not have your feed be an echo-chamber is to not make it an echo-chamber because if you want an echo-chamber, you'll get an echo-chamber, reach out and interact with new people.
 
+- ### My friend(s)/partner(s) don't want me to use Bluesky/tumblr/ect.
+
+    You should be the one to make your own decisions, if your friend(s)/partner(s) don't want to use another platform, that's fine, but if they're telling you that you shouldn't or can't use another platform, that isn't fine and you should tell them that. If a friend/partner is threatening you in some way at the idea of you switching or using another platform, you should talk to them or if they've been doing other things similar to this, think about how they're directly influencing your decisions and whether its healthy. This goes the other way around with the idea of *not* moving to another platform, that isn't good either, please be patient and respectful with other's decisions to move or not and when they may do so.
+
 - #### I'm too lazy
 
     I'm sorry? What? Not to be rude but get off your lazy ass, that's not really a good excuse. Doing the bare minimum which is creating an account isn't hard, and at least interacting a bit isn't hard either. Plus, continuing to use Twitter through its glaring issues that affect more than just you can't be easier than at least starting to switch to a new platform.
